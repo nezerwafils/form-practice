@@ -1,0 +1,15 @@
+<i class='bx bx-map'></i>
+<i class='bx bx-envelope'></i>
+<i class='bx bx-phone'></i>
+ <input type="checkbox" name="" id="" />
+            <label for="">Website design</label>
+            <input type="checkbox" name="" id="" />
+            <label for=""> UX design</label>
+            <input type="checkbox" name="" id="" />
+            <label for="">User research</label>
+            <input type="checkbox" name="" id="" />
+            <label for="">Content creation</label>
+            <input type="checkbox" name="" id="" />
+            <label for="">Strategy & consulting</label>
+            <input type="checkbox" name="" id="" />
+            <label for="">Other</label>
